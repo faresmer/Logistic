@@ -65,7 +65,7 @@ export const initialUsers: User[] = [
 ];
 
 export const initialStoreInfo: StoreInfo = {
-    name: 'AMA Logistic',
+    name: 'AMF Logistic',
     address: '123 Industrial Way, Logistown',
     logo: '',
 };
