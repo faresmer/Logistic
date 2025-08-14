@@ -1,4 +1,4 @@
-# **App Name**: AMA Logistic
+# **App Name**: AMF Logistic
 
 ## Core Features:
 

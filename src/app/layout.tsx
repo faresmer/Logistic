@@ -7,7 +7,7 @@ import {getMessages} from 'next-intl/server';
 
 
 export const metadata: Metadata = {
-  title: 'AMA Logistic',
+  title: 'AMF Logistic',
   description: 'Dynamic stock management with AI-powered insights.',
 };
 

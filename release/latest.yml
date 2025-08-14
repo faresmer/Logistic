@@ -1,8 +1,8 @@
 version: 0.1.0
 files:
-  - url: AMA-Logistic-Setup-0.1.0.exe
+  - url: AMF-Logistic-Setup-0.1.0.exe
     sha512: VO26Oj80V3U33JVJfdr483QGfGlurJQBUAg6svNyjgVvemiJlG9RuJ1RyhzLbk65/qxCu0Zmv9N+51AD0TrJsg==
     size: 271754731
-path: AMA-Logistic-Setup-0.1.0.exe
+path: AMF-Logistic-Setup-0.1.0.exe
 sha512: VO26Oj80V3U33JVJfdr483QGfGlurJQBUAg6svNyjgVvemiJlG9RuJ1RyhzLbk65/qxCu0Zmv9N+51AD0TrJsg==
 releaseDate: '2025-08-13T18:51:16.171Z'
